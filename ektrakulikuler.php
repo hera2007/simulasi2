@@ -11,16 +11,17 @@
 
             <body>
                 <!-- Navbar -->
-                <?php include 'navbar.php' ?>
+                <?php include 'navbar.php';?>
                 <!-- SECTION TUTUP NAVBAR -->
 
                 <?php
                 // Data eskul
                 $eskul1 = [
                     
-                    ["img" => "galeri/pks..png", "nama" => "PKS"], 
-                    ["img" => "galeri/pks..png", "nama" => "PKS"], 
-                    ["img" => "galeri/pks..png", "nama" => "PKS"], 
+                    ["img" => "galeri/pks.png", "nama" => "PKS"], 
+                    ["img" => "galeri/pks.png", "nama" => "PKS"], 
+                    ["img" => "galeri/pks.png", "nama" => "PKS"], 
+                    
                    
                 ];
 
@@ -58,5 +59,7 @@
                 
                     <!-- TUTUP SECTION FOOTER -->
                 <?php include 'footer.php' ?>
+
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
             </body>
             </html>

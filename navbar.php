@@ -2,7 +2,7 @@
   <div class="container-fluid py-2 border-bottom">
     <div class="row align-items-center">
       <div class="col-md-6 d-flex align-items-center">
-        <img src="galeri/nida.png" alt="Logo" width="60" class="me-2">
+        <img src="../galeri/nida.png" alt="Logo" width="60" class="me-2">
         <div>
           <h5 class="mb-0 fw-bold text-warning">SMKN NEGERI 4</h5>
           <h6 class="mb-0 fw-bold">TASIKMALAYA</h6>
@@ -42,7 +42,7 @@
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="sejarah.php">Sejarah</a></li>
               <li><a class="dropdown-item" href="visimisi.php">Visi & Misi</a></li>
-              <li><a class="dropdown-item" href="identitas.php">Identitas</a></li>
+              <li><a class="dropdown-item" href="identitas.php">Identitas sekolah</a></li>
             </ul>
           </li>
 
@@ -51,6 +51,12 @@
           </li>
           <li class="nav-item">
             <a class="nav-link text-dark" href="ektrakulikuler.php">Ekstrakurikuler</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="kejuruan.php">kejuruan</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="berita.php"></a>
           </li>
         </ul>
       </div>

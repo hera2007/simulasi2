@@ -6,7 +6,7 @@
   <title>SMKN Negeri 4 Tasikmalaya</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
-</head>>
+</head>
 <body>
     <?php include 'navbar.php';?>
 
@@ -22,7 +22,7 @@
       <!-- Seragam Senin - Selasa -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/senin.jpg" class="card-img-top" alt="Senin Selasa">
+          <img src="../galeri/senin.jpg" class="card-img-top" alt="Senin Selasa">
           <div class="card-body">
             <p class="fw-semibold">⭐ Baju Seragam Senin dan Selasa</p>
           </div>
@@ -32,7 +32,7 @@
       <!-- Seragam Rabu -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/rabu..jpg" class="card-img-top" alt="Rabu">
+          <img src="../galeri/rabu..jpg" class="card-img-top" alt="Rabu">
           <div class="card-body">
             <p class="fw-semibold">📁 Baju Seragam Rabu</p>
           </div>
@@ -42,7 +42,7 @@
       <!-- Seragam Jumat -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/jumat..jpg" class="card-img-top" alt="Jumat">
+          <img src="../galeri/jumat..jpg" class="card-img-top" alt="Jumat">
           <div class="card-body">
             <p class="fw-semibold">🌻 Baju Seragam Jumat</p>
           </div>
@@ -52,7 +52,7 @@
       <!-- Seragam Kamis RPL -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/kamis.jpg" class="card-img-top" alt="Kamis RPL">
+          <img src="../galeri/kamis.jpg" class="card-img-top" alt="Kamis RPL">
           <div class="card-body">
             <p class="fw-semibold">🌱 Baju Kamis RPL</p>
           </div>
@@ -70,7 +70,7 @@
       <!-- Seragam Senin - Selasa -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/senin.jpg" class="card-img-top" alt="Senin Selasa">
+          <img src="../galeri/senin.jpg" class="card-img-top" alt="Senin Selasa">
           <div class="card-body">
             <p class="fw-semibold">⭐ Baju Seragam Senin dan Selasa</p>
           </div>
@@ -80,7 +80,7 @@
       <!-- Seragam Rabu -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/rabu..jpg" class="card-img-top" alt="Rabu">
+          <img src="../galeri/rabu..jpg" class="card-img-top" alt="Rabu">
           <div class="card-body">
             <p class="fw-semibold">📁 Baju Seragam Rabu</p>
           </div>
@@ -90,7 +90,7 @@
       <!-- Seragam Jumat -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/jumat..jpg" class="card-img-top" alt="Jumat">
+          <img src="../galeri/jumat..jpg" class="card-img-top" alt="Jumat">
           <div class="card-body">
             <p class="fw-semibold">🌻 Baju Seragam Jumat</p>
           </div>
@@ -100,7 +100,7 @@
       <!-- Seragam Kamis RPL -->
       <div class="col-md-3">
         <div class="card h-100">
-          <img src="galeri/kamis.jpg" class="card-img-top" alt="Kamis RPL">
+          <img src="../galeri/kamis.jpg" class="card-img-top" alt="Kamis RPL">
           <div class="card-body">
             <p class="fw-semibold">🌱 Baju Kamis RPL</p>
           </div>
